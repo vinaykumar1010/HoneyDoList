@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HoneyDoList</string>
+    <string name="todo_list">Enter Your ToDo List</string>
+</resources>
